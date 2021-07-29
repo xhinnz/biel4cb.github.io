@@ -27,7 +27,7 @@ body {
 }
 
 #friends {
-    border: 2px solid #ff5fcf;
+    border: 2px solid #d3ae09;
     background-color: none;
     text-align: center;
     padding: 15px;
@@ -43,7 +43,7 @@ body {
 }
 
 #friends:hover {
-    background-color: #ff5fcf;
+    background-color: #d3ae09;
     color: #fff;
     background-size: cover;
     background-repeat: no-repeat;

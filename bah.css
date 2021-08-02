@@ -18,13 +18,13 @@ body {
 }
 
 #friends {
-    border: 2px solid #d3ae09;
+    border: 2px solid #074eb8;
     background-color: none;
     text-align: center;
     padding: 15px;
     margin-top: 20px;
     border-radius: 15px;
-    color: #d3ae09;
+    color: #074eb8;
     transition: 0.3s background, 0.3s color;
     width: 200px;
     text-align: center;
@@ -34,7 +34,7 @@ body {
 }
 
 #friends:hover {
-    background-color: #d3ae09;
+    background-color: #074eb8;
     color: #fff;
 }
 
